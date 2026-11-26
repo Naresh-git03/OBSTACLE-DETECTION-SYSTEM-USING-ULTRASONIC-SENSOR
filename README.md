@@ -74,10 +74,8 @@ void loop() {
 }
 ```
 ## Output:
-
 <img width="1919" height="1030" alt="638102556-199b729c-885d-4815-b059-b8ae19606f39" src="https://github.com/user-attachments/assets/717f19d8-e19e-4e11-8248-40e0e47cd8bd" />
 
 <img width="1919" height="1029" alt="638102622-34b5d25a-2e98-49f7-9f17-835dff64e0ae" src="https://github.com/user-attachments/assets/690659d1-0d6e-479e-a149-021d283f5235" />
-
 ## Result:
- The simulation successfully measured the distance between the ultrasonic sensor HC-SR04 and the object. The real-time distance values were accurately displayed on the serial monitor in centimeters.
+The simulation successfully measured the distance between the ultrasonic sensor HC-SR04 and the object. The real-time distance values were accurately displayed on the serial monitor in centimeters.
